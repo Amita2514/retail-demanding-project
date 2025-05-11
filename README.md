@@ -1,1 +1,1 @@
-# retail-demanding-project
+# retail_demanding_project
